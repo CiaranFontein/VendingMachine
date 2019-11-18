@@ -1,0 +1,9 @@
+{
+  "items": [
+    { "id": 0, "name": "Coke", "price": 1.0, "amount": 100 },
+    { "id": 1, "name": "Sprite", "price": 1.0, "amount": 100 },
+    { "id": 2, "name": "Pepsi", "price": 1.0, "amount": 100 },
+    { "id": 3, "name": "Root Beer", "price": 1.0, "amount": 100 },
+    { "id": 4, "name": "Orange Crush", "price": 1.0, "amount": 100 }
+  ]
+}
